@@ -2,4 +2,5 @@
   <Project Path="src/TrezzeCloud.Contracts/TrezzeCloud.Contracts.csproj" Id="cdd6e352-b7ce-431d-926b-8682bc284529" />
   <Project Path="src/TrezzeCloud.Payments.Api/TrezzeCloud.Payments.Api.csproj" Id="27a887ba-2f43-4b00-af0f-149b6ec3a1d1" />
   <Project Path="src/TrezzeCloud.Payments.Application/TrezzeCloud.Payments.Application.csproj" Id="041b1c45-78c9-42f7-9879-12add50a9e41" />
+  <Project Path="tests/TrezzeCloud.Payments.UnitTests/TrezzeCloud.Payments.UnitTests.csproj" />
 </Solution>
